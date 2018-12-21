@@ -1,6 +1,2 @@
 bbbbb
-<<<<<<< HEAD
-1234
-=======
-abfc
->>>>>>> 2e01583d40f4975af03dbb75e34d89198a32e20c
+master
